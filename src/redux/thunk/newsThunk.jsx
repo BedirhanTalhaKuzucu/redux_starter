@@ -8,7 +8,7 @@ const url =
     "q=Apple&" +
     "from=2022-04-18&" +
     "sortBy=popularity&" +
-    "apiKey=1a1a999e0d7240a6bd2dead87bcca78e";
+    "apiKey=eb148e87ab3444f184fa3a9b9c408285";
 
 export const getNews = async (dispatch) => {
     try {
